@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Ubuntu Mono";
+    width: 100%;
+    text-align: center;
+}
+
+canvas.p5Canvas {
+    padding: 2em;
+    margin: 2em;
+    display: inline;
+}
